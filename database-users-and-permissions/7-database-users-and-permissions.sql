@@ -1,0 +1,1 @@
+CREATE USER john IDENTIFIED BY 'secret';
