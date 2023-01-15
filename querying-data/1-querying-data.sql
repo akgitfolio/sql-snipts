@@ -1,0 +1,3 @@
+SELECT name
+FROM students
+LIMIT 5 OFFSET 10;
