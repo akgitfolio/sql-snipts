@@ -1,0 +1,2 @@
+DBCC DATABASEPERFORMANCE(START [tracefilename], 10, -1, 'ALL', 'OFF')
+GO

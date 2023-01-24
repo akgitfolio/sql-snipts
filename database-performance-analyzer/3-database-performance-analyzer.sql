@@ -1,0 +1,1 @@
+DBCC DATABASEPERFORMANCE(START 'tracefilename', 10, -1, 'EVENTS(QUERY)', 'ON')
