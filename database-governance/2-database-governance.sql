@@ -1,0 +1,2 @@
+ALTER TABLE customer
+ADD CONSTRAINT CHECK (age >= 18);
