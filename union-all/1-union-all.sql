@@ -1,0 +1,3 @@
+SELECT DISTINCT id, name FROM Table1
+UNION ALL
+SELECT DISTINCT id, name FROM Table2;
