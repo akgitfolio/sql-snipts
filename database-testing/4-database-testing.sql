@@ -1,0 +1,1 @@
+CHECK CONSTRAINT [constraint_name] FOR ALL ROWS;
