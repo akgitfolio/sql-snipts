@@ -1,0 +1,1 @@
+DECLARE price REAL;
