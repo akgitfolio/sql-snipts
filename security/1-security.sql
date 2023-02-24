@@ -1,0 +1,2 @@
+ALTER DATABASE database_name
+SET AUDIT_TRAIL = DBA;
