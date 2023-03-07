@@ -1,0 +1,1 @@
+RESTORE DATABASE mydb2 FROM DISK = 'mydb.bak';

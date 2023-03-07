@@ -1,0 +1,2 @@
+BACKUP DATABASE mydb2 TO DISK = 'mydb2.bak';
+DETACH DATABASE mydb2;
