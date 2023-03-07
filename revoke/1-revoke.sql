@@ -1,0 +1,1 @@
+REVOKE GRANT OPTION FOR SELECT ON table_name FROM user_name;
