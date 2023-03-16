@@ -1,0 +1,1 @@
+REVOKE SELECT ON table1 FROM user1;
