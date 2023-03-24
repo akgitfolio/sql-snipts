@@ -1,0 +1,1 @@
+DECLARE my_cursor CURSOR WITH HOLD FOR SELECT * FROM customers;
