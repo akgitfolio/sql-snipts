@@ -1,0 +1,1 @@
+LOCK TABLE customers IN EXCLUSIVE MODE;
