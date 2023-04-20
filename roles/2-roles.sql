@@ -1,0 +1,1 @@
+SELECT * FROM MEMBERSHIP('role_name')
