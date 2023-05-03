@@ -1,0 +1,6 @@
+CREATE TABLE Orders (
+  OrderID INT NOT NULL AUTO_INCREMENT,
+  CustomerName VARCHAR(255) NOT NULL,
+  OrderDate DATE NOT NULL,
+  PRIMARY KEY (OrderID)
+);

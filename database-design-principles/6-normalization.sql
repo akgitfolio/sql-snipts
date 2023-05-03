@@ -1,0 +1,12 @@
+CREATE TABLE Customers (
+  CustomerID INT NOT NULL AUTO_INCREMENT,
+  CustomerName VARCHAR(255) NOT NULL,
+  PRIMARY KEY (CustomerID)
+);
+
+CREATE TABLE Orders (
+  OrderID INT NOT NULL AUTO_INCREMENT,
+  CustomerID INT NOT NULL,
+  OrderDate DATE NOT NULL,
+  FOREIGN KEY (CustomerID) REFERENCES Customers(CustomerID)
+);
