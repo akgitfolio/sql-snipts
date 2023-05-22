@@ -1,0 +1,2 @@
+CREATE VIEW indexed_view WITH NO CHECK OPTION AS
+SELECT ...;
