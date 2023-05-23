@@ -1,0 +1,3 @@
+SELECT * FROM table1
+EXCEPT
+SELECT * FROM table2;

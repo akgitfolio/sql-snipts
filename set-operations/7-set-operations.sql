@@ -1,0 +1,3 @@
+SELECT * FROM table1
+MINUS
+SELECT * FROM table2;
