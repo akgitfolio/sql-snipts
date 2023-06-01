@@ -1,0 +1,3 @@
+CREATE TABLE partitioned_table (
+  ...
+) PARTITION BY RANGE (column_name);
