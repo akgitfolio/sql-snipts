@@ -1,0 +1,4 @@
+ALTER TABLE Customers DROP COLUMN Address;
+ALTER TABLE Customers DROP COLUMN City;
+ALTER TABLE Customers DROP COLUMN State;
+ALTER TABLE Customers DROP COLUMN Zip_Code;
