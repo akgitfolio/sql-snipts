@@ -1,0 +1,6 @@
+WITH RECURSIVE cte_name AS (
+    SELECT ...
+    UNION ALL
+    SELECT ...
+)
+SELECT ... FROM cte_name
