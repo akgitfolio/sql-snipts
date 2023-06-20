@@ -1,0 +1,1 @@
+ALTER DATABASE target_database SET ONLINE;
