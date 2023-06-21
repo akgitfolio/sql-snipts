@@ -1,0 +1,1 @@
+ALTER TABLE partitioned_table SPLIT PARTITION p3 AT ('2024-01-15');

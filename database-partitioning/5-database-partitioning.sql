@@ -1,0 +1,1 @@
+SELECT * FROM partitioned_table WHERE date BETWEEN '2023-01-01' AND '2023-03-31' PARTITION (p1);
