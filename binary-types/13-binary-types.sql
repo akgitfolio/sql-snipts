@@ -1,0 +1,1 @@
+INSERT INTO images (image) VALUES ('0xFFD8FFE000104A46');
