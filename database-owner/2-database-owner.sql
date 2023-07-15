@@ -1,0 +1,1 @@
+CREATE USER John WITH PASSWORD = 'secret';

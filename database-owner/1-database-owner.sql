@@ -1,0 +1,1 @@
+GRANT OWNERSHIP ON AdventureWorks2019 TO Bob;
