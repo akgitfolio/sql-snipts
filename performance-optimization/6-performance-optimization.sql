@@ -1,0 +1,1 @@
+EXPLAIN ANALYZE SELECT * FROM my_table WHERE condition;

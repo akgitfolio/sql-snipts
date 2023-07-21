@@ -1,0 +1,1 @@
+VACUUM FULL ANALYZE table_name;
