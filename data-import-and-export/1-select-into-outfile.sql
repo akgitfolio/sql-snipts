@@ -1,0 +1,5 @@
+SELECT * INTO OUTFILE 'data.csv'
+FROM table_name
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+WHERE ...;

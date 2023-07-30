@@ -1,0 +1,5 @@
+LOAD DATA INFILE 'data.csv' INTO TABLE table_name
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS
+(column1, column2, ...);

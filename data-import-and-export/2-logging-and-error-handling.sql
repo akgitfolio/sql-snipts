@@ -1,0 +1,5 @@
+LOAD DATA INFILE 'data.csv' INTO TABLE users
+FIELDS TERMINATED BY ','
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS
+(user_id, name, email);

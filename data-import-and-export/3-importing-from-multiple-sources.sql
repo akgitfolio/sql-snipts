@@ -1,0 +1,3 @@
+LOAD DATA INFILE 'file1.csv' INTO TABLE ...
+UNION
+LOAD DATA INFILE 'file2.csv' INTO TABLE ...;
