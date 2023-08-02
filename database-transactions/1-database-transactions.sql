@@ -1,0 +1,1 @@
+SET LOG ON;
