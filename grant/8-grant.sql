@@ -1,0 +1,1 @@
+GRANT INSERT, UPDATE, DELETE ON table_name TO role1;
