@@ -1,0 +1,4 @@
+CREATE TABLE table_name (
+  id INTEGER AUTO_INCREMENT,
+  name VARCHAR(255)
+);
